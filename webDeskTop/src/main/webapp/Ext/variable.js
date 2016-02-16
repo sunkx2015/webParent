@@ -1,0 +1,11 @@
+var version = Math.random();
+var appName="Desktop";
+var appEName="Desktop";
+var appShortName="Desktop";
+var currentloginname = "";
+var currentusername = "";
+var currentorgcode = "";
+var currentorgname = "";
+var proxyPath = "";
+var recordStart = 0;  //grid  start
+var recordLimit = 20; //grid  limit
